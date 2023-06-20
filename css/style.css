@@ -64,6 +64,7 @@
     margin-top: 12px;
     margin-bottom: 12px;
     color: rgb(82, 82, 82);
+
 }
 
 .title_bold {
@@ -73,6 +74,7 @@
 
 .checkmark_list {
     font-size: 18px;
+    
 }
 
 .checkmark {
@@ -88,28 +90,22 @@
 
 .editorial_botton {
     border-radius: 45px;
-    border: 2px solid rgb(81, 190, 245);
-    width: 90px;
-    height: 26px;
-    text-align: center;
-    display: inline-block;
     background-color: rgb(81, 190, 245);
     font-size: 14px;
     color: white;
     font-weight: bold;
+    vertical-align: middle;
+    padding: 4px 6px;
 }
 
 .q1goals_botton {
     border-radius: 45px;
-    border: 2px solid rgb(171, 93, 230);
-    width: 90px;
-    height: 26px;
-    text-align: center;
-    display: inline-block;
     background-color: rgb(171, 93, 230);
     font-size: 14px;
     color: white;
     font-weight: bold;
+    vertical-align: middle;
+    padding: 4px 6px;
 }
 
 .negative_check {
@@ -130,54 +126,43 @@
 
 .recruiting_botton {
     border-radius: 45px;
-    border: 2px solid rgb(10, 167, 167);
-    width: 90px;
-    height: 26px;
-    text-align: center;
-    display: inline-block;
     background-color: rgb(10, 167, 167);
     font-size: 14px;
     color: white;
     font-weight: bold;
+    vertical-align: middle;
+    padding: 4px 6px;
 }
 
 .mobile_botton {
     border-radius: 45px;
-    border: 2px solid orange;
-    width: 90px;
-    height: 26px;
-    text-align: center;
-    display: inline-block;
     background-color: orange;
     font-size: 14px;
     color: white;
     font-weight: bold;
+    vertical-align: middle;
+    padding: 4px 6px;
 }
 
 .website_botton {
     border-radius: 45px;
-    border: 2px solid rgb(201, 97, 115);
-    width: 90px;
-    height: 26px;
-    text-align: center;
-    display: inline-block;
     background-color: rgb(201, 97, 115);
     font-size: 14px;
     color: white;
     font-weight: bold;
+    vertical-align: middle;
+    padding: 4px 6px;
+    
 }
 
 .sales_botton {
     border-radius: 45px;
-    border: 2px solid rgb(136, 202, 36);
-    width: 90px;
-    height: 26px;
-    text-align: center;
-    display: inline-block;
     background-color: rgb(136, 202, 36);
     font-size: 14px;
     color: white;
     font-weight: bold;
+    vertical-align: middle;
+    padding: 4px 6px;
 }
 
 body {
