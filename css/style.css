@@ -62,6 +62,11 @@
     background-color: white;
 }
 
+.element_list {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 .title_bold {
     font-family: 'Verdana' , sans-serif;
     font-weight: bold;
@@ -75,11 +80,11 @@
 
 .checkmark {
     margin: 7px;
-    width: 12px;
-    height: 12px;
+    width: 10px;
+    height: 10px;
     padding: 5px;
     color: greenyellow;
-    font-size: 15px;
+    font-size: 10px;
     border-radius: 50%;
     border: 1px solid yellowgreen;
 }
@@ -92,6 +97,20 @@
     text-align: center;
     display: inline-block;
     background-color: rgb(81, 190, 245);
+    font-size: 14px;
+    color: white;
+    font-family: 'Verdana' , sans-serif;
+    font-weight: bold;
+}
+
+.q1goals_botton {
+    border-radius: 45px;
+    border: 2px solid rgb(171, 93, 230);
+    width: 90px;
+    height: 30px;
+    text-align: center;
+    display: inline-block;
+    background-color: rgb(171, 93, 230);
     font-size: 14px;
     color: white;
     font-family: 'Verdana' , sans-serif;
